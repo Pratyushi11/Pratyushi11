@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Pratyshi</h1>
+<h1 align="center">Hi 👋, I'm Pratyushi</h1>
 <br/>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;A+Passionate+Frontend+Developer;Creative+UI/UX+Enthusiast;React+Developer;Quick+learner&color=cyan&center=true" />
